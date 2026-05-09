@@ -18,7 +18,7 @@ export const socialLinks = [
   },
   {
     name: "WakaTime",
-    url: "https://wakatime.com/@otoneko1102",
+    url: "https://wakatime.com/@otnc",
     icon: "logos:wakatime",
   },
   {

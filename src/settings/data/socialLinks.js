@@ -13,7 +13,7 @@
 export const socialLinks = [
   {
     name: "GitHub",
-    url: "https://github.com/otoneko1102",
+    url: "https://github.com/otnc",
     icon: "logos:github-icon",
   },
   {

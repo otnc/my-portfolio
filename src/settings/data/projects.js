@@ -34,7 +34,7 @@ export const projects = [
   {
     title: "NoShift.js",
     description: "Write JavaScript without pressing the Shift key.",
-    image: "https://raw.githubusercontent.com/otoneko1102/NoShift.js/refs/heads/main/my-keyboard.jpg",
+    image: "https://raw.githubusercontent.com/otnc/NoShift.js/refs/heads/main/my-keyboard.jpg",
     tags: ["AltJS", "cli", "JavaScript", "language"],
     url: "https://noshift.js.org",
     github: "https://github.com/otnc/NoShift.js",

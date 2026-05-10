@@ -14,7 +14,7 @@
 export const contactLinks = [
   {
     name: "GitHub",
-    value: "@otoneko1102",
+    value: "@otnc",
     url: "https://github.com/otnc",
     icon: "logos:github-icon",
   },

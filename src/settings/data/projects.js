@@ -43,8 +43,9 @@ export const projects = [
   {
     title: "mixi2-js",
     description: "mixi2 の Application API を利用するための 非公式 TypeScript/JavaScript SDK です。",
+    image: "https://raw.githubusercontent.com/otnc/mixi2-js/refs/heads/main/img/account-icon.png",
     tags: ["API", "Framework", "mixi2", "SDK", "TypeScript"],
-    url: "https://www.npmjs.com/package/mixi2-js",
+    url: "https://mixi2.js.org",
     github: "https://github.com/otnc/mixi2-js",
     pin: true,
   },

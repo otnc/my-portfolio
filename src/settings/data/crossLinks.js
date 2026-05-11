@@ -69,5 +69,5 @@ export const crossLinks = [
     author: "Np",
     description: null,
     thumbnail: null,
-  }
+  },
 ];

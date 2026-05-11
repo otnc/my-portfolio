@@ -53,9 +53,28 @@ export const historyBadgeKeys = Object.keys(historyBadges);
 /** @type {HistoryMap} */
 export const history = {
   2026: {
+    5: [
+      {
+        text: "技術者倫理啓発のサイトを開設",
+        url: "https://gijutsusharin.li",
+        badge: "release",
+      },
+      {
+        text: "GitHubのユーザーネームを変更 (@otoneko1102 → @otnc)",
+        url: "https://github.com/otnc",
+        badge: "personal",
+      },
+    ],
+    4: [
+      {
+        text: "Ruby Kaigi 2026 のHelperになる",
+        url: "https://rubykaigi.org/2026/about/",
+      },
+    ],
     3: [
       {
-        text: "MoonBitを始める", badge: "project"
+        text: "MoonBitを始める",
+        badge: "project",
       },
       {
         text: "US/JIS配列のキーボードでシフトキーをほとんど押さずに書ける実用的なプログラミング言語「Purus」を公開",
@@ -64,7 +83,7 @@ export const history = {
       },
       {
         text: "mixi2 の Application API を利用するための 非公式 TypeScript/JavaScript SDK「mixi2-js」を公開",
-        url: "https://www.npmjs.com/package/mixi2-js",
+        url: "https://mixi2.js.org",
         badge: "release",
       },
     ],
